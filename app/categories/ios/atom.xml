@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[LessFun]]></title>
-  <link href="http://www.lessfun.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ios | LessFun]]></title>
+  <link href="http://www.lessfun.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://www.lessfun.com/"/>
   <updated>2014-12-11T21:01:29+08:00</updated>
   <id>http://www.lessfun.com/</id>
