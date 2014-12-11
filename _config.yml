@@ -99,3 +99,16 @@ google_analytics_tracking_id: UA-57532325-1
 
 # Facebook Like
 facebook_like: false
+
+# Social
+social:
+  title: "Contact me"
+  github:
+    user:
+    show_profile_link:
+  twitter:
+    user: xappbox
+    widget:
+      is_shown: false
+      show_profile_link:
+      widget_id:
