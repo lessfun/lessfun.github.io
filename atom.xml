@@ -4,7 +4,7 @@
   <title><![CDATA[LessFun]]></title>
   <link href="http://www.lessfun.com/atom.xml" rel="self"/>
   <link href="http://www.lessfun.com/"/>
-  <updated>2014-12-10T20:34:37+08:00</updated>
+  <updated>2014-12-11T12:05:27+08:00</updated>
   <id>http://www.lessfun.com/</id>
   <author>
     <name><![CDATA[LessFun]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MakeText A Markdown Text Editor for iOS]]></title>
+    <link href="http://www.lessfun.com/blog/2014/12/10/maketext-a-markdown-text-editor-for-ios/"/>
+    <updated>2014-12-10T21:29:06+08:00</updated>
+    <id>http://www.lessfun.com/blog/2014/12/10/maketext-a-markdown-text-editor-for-ios</id>
+    <content type="html"><![CDATA[<p>MakeText - A Markdown Text Editor for iOS. (Coming soon&hellip;)</p>
+]]></content>
+  </entry>
   
 </feed>
