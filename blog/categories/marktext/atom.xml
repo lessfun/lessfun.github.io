@@ -4,7 +4,7 @@
   <title><![CDATA[Category: marktext | LessFun]]></title>
   <link href="http://www.lessfun.com/blog/categories/marktext/atom.xml" rel="self"/>
   <link href="http://www.lessfun.com/"/>
-  <updated>2014-12-11T21:01:29+08:00</updated>
+  <updated>2014-12-12T13:34:14+08:00</updated>
   <id>http://www.lessfun.com/</id>
   <author>
     <name><![CDATA[LessFun]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[MakeText - A Markdown Text Editor for iOS]]></title>
-    <link href="http://www.lessfun.com/blog/2014/12/10/maketext-a-markdown-text-editor-for-ios/"/>
+    <title type="html"><![CDATA[MarkText - A Markdown Text Editor for iOS]]></title>
+    <link href="http://www.lessfun.com/blog/2014/12/10/marktext-a-markdown-text-editor-for-ios/"/>
     <updated>2014-12-10T21:29:06+08:00</updated>
-    <id>http://www.lessfun.com/blog/2014/12/10/maketext-a-markdown-text-editor-for-ios</id>
-    <content type="html"><![CDATA[<p>MakeText is a markdown text editor for iOS. Sopports real-time syntax highlighting, html preview with css, and can share to Evernote, Dropbox or Email.</p>
+    <id>http://www.lessfun.com/blog/2014/12/10/marktext-a-markdown-text-editor-for-ios</id>
+    <content type="html"><![CDATA[<p>MarkText is a markdown text editor for iOS. Supports real-time syntax highlighting, HTML preview with CSS, export as HTML/PNG/PDF, and share to Evernote, Dropbox or Email, etc.</p>
 
 <h2>Download</h2>
 
