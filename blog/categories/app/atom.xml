@@ -4,7 +4,7 @@
   <title><![CDATA[Category: app | LessFun]]></title>
   <link href="http://www.lessfun.com/blog/categories/app/atom.xml" rel="self"/>
   <link href="http://www.lessfun.com/"/>
-  <updated>2014-12-12T13:34:14+08:00</updated>
+  <updated>2014-12-16T20:34:43+08:00</updated>
   <id>http://www.lessfun.com/</id>
   <author>
     <name><![CDATA[LessFun]]></name>
@@ -18,18 +18,58 @@
     <link href="http://www.lessfun.com/blog/2014/12/10/marktext-a-markdown-text-editor-for-ios/"/>
     <updated>2014-12-10T21:29:06+08:00</updated>
     <id>http://www.lessfun.com/blog/2014/12/10/marktext-a-markdown-text-editor-for-ios</id>
-    <content type="html"><![CDATA[<p>MarkText is a markdown text editor for iOS. Supports real-time syntax highlighting, HTML preview with CSS, export as HTML/PNG/PDF, and share to Evernote, Dropbox or Email, etc.</p>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/app/marktext/marktext_appicon.png" width="120" height="120" title="&lsquo;MarkText App&rsquo; &lsquo;A Markdown Text Editor&rsquo;" ></p>
+
+<p>MarkText is a markdown text editor for iOS. Supports real-time syntax highlighting, HTML preview with CSS, export as HTML/PNG/PDF, and share to Evernote, Dropbox or Email, etc.</p>
+
+<p>Version: 1.0.0<br/>
+Update: 2014.12.16</p>
+
+<h2>iPhone Screenshot</h2>
+
+<div style="margin-top:30px;font-size:16px;line-height:20px;background:rgb(237,237,237);border-radius:4px;padding:4px;">
+<div style="margin: 0 14px; max-height: 640px; min-height: 320px; overflow-x: auto; overflow-y: hidden; padding-bottom: 16px; white-space: nowrap;"><img style="border:2px solid white;margin:5px;box-shadow:0 0 5px rgba(220,220,220,0.5);width:320px;" src="http://www.lessfun.com/images/app/marktext/marktext_screenshot_1.png" alt="1"> <img style="border:2px solid white;margin:5px;box-shadow:0 0 5px rgba(220,220,220,0.5);width:320px;" src="http://www.lessfun.com/images/app/marktext/marktext_screenshot_2.png" alt="2"> <img style="border:2px solid white;margin:5px;box-shadow:0 0 5px rgba(220,220,220,0.5);width:320px;" src="http://www.lessfun.com/images/app/marktext/marktext_screenshot_3.png" alt="3"> <img style="border:2px solid white;margin:5px;box-shadow:0 0 5px rgba(220,220,220,0.5);width:320px;" src="http://www.lessfun.com/images/app/marktext/marktext_screenshot_4.png" alt="4"> <img style="border:2px solid white;margin:5px;box-shadow:0 0 5px rgba(220,220,220,0.5);width:320px;" src="http://www.lessfun.com/images/app/marktext/marktext_screenshot_5.png" alt="5"></div>
+</div>
+
 
 <h2>Download</h2>
 
-<p>coming soon&hellip;</p>
+<p><a href="https://itunes.apple.com/us/app/marktext-markdown-text-editor/id948768793?mt=8"><img src="/images/app/appstore.png" alt="Download From AppStore" /></a></p>
+
+<h2>Description</h2>
 
 <!--more-->
 
 
-<h2>Features</h2>
+<p>MarkText is a markdown text editor for iOS.</p>
 
-<p>coming soon&hellip;</p>
+<h3>Edit &amp; share</h3>
+
+<p>Using MarkText, you can import or create markdown text files, then edit with real-time syntax highlighting.
+It supports convert plain texts to HTML/PNG/PDF files and share. Once you’re done editing, you can share a document as a MD, HTML, PNG or PDF file. You can export plain markdown files to PC using iTunes, or convert and share to Evernote/Dropbox/Email directly.</p>
+
+<h3>Caret enhance</h3>
+
+<p>With the input accessory tools bar, You can insert tabs, headers, lists, code blocks, or create inline links with the tap of a button; left-right swipe on the bar will move the cursor quickly.</p>
+
+<h3>Html preview</h3>
+
+<p>Same as syntax highlighting, you can preview the HTML with a style sheet.  It supports regular Markdown, MultiMarkdown, and HTML code. It renders footnotes, images, tables and code blocks.</p>
+
+<h2>Version 1.0.0 Features</h2>
+
+<ul>
+<li>Create, edit markdown docs;</li>
+<li>Real-time Markdown syntax highlight;</li>
+<li>HTML preview with css;</li>
+<li>Change theme style;</li>
+<li>Import docs from iTunes;</li>
+<li>Export docs as HTML, PNG and PDF;</li>
+<li>Share docs using Evernote, Dropbox and Email;</li>
+<li>Caret enhance: pan the input accessory view to move caret quickly;</li>
+<li>Support extensions: md/mmd/markdown/markdn/mdown/mkdn/markd/txt/text.</li>
+</ul>
+
 ]]></content>
   </entry>
   
