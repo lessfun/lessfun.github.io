@@ -13,8 +13,8 @@ description: MarkText is a markdown text editor for iOS. Supports real-time synt
 
 MarkText is a markdown text editor for iOS. Supports real-time syntax highlighting, HTML preview with CSS, export as HTML/PNG/PDF, and share to Evernote, Dropbox or Email, etc.
 
-Version: 1.0.0  
-Update: 2014.12.16
+Version: 1.0.1  
+Update: 2015.01.06
 
 ## iPhone Screenshot
 
@@ -25,7 +25,7 @@ Update: 2014.12.16
 
 ## Download
   
-[![Download From AppStore](/images/app/appstore.png)](https://itunes.apple.com/us/app/marktext-markdown-text-editor/id948768793?mt=8)
+[![Download From AppStore](/images/app/appstore_available.png)](https://itunes.apple.com/us/app/marktext-markdown-text-editor/id948768793?mt=8)
 
 ## Description
 
@@ -43,7 +43,13 @@ With the input accessory tools bar, You can insert tabs, headers, lists, code bl
 
 ### Html preview
 
-Same as syntax highlighting, you can preview the HTML with a style sheet.  It supports regular Markdown, MultiMarkdown, and HTML code. It renders footnotes, images, tables and code blocks.
+You can preview the HTML with a style sheet. It supports regular Markdown, MultiMarkdown, and HTML code. It renders footnotes, images, tables and code blocks.
+
+## Version 1.0.1 Features
+
++ Show word count;
++ Full text search;
++ Search and replace using regex.
 
 ## Version 1.0.0 Features
 
