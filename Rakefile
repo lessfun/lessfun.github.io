@@ -273,9 +273,9 @@ multitask :push do
   puts "\n## Copying #{public_dir} to #{deploy_dir}"
   cp_r "#{public_dir}/.", deploy_dir
   cd "#{deploy_dir}" do
-    puts "\n## Custom: copy blog to app"
-    mkdir_p "app"
-    cp_r "blog/.", "app/."
+    # puts "\n## Custom: copy blog to app"
+    # mkdir_p "app"
+    # cp_r "blog/.", "app/."
     system "git add -A"
     message = "Site updated at #{Time.now.utc}"
     puts "\n## Committing: #{message}"

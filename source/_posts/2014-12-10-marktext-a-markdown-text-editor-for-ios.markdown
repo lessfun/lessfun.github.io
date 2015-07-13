@@ -3,7 +3,7 @@ layout: post
 title: "MarkText - A Markdown Text Editor for iOS"
 date: 2014-12-10 21:29:06 +0800
 comments: true
-categories: [iOS, App, MarkText]
+categories: [App, MarkText, iOS]
 tags: [app, ios, marktext, markdown]
 keywords: markdown, editor, IA Writer, Evermark, Byword
 description: MarkText is a markdown text editor for iOS. Supports iCloud sync, real-time syntax highlighting, HTML preview with CSS, export as HTML/PNG/PDF, and share to Evernote, Dropbox or Email, etc.

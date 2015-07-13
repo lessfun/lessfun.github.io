@@ -3,7 +3,7 @@ layout: post
 title: "PassCalc - Protect your photo video note and contact on iphone"
 date: 2015-05-22 10:55:52 +0800
 comments: true
-categories: [iOS, App, PassCalc]
+categories: [App, PassCalc, iOS]
 tags: [app, ios]
 keywords: Calculator,Private Album,File Manager,Encryption,iVault
 description: PassCalc is a private file manager can be the perfect way to protect your privacy, hide your private photos, videos, notes, documents or contacts.
