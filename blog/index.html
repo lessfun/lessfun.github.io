@@ -39,9 +39,9 @@
 <label for="toggle" class="toggle" data-open="Main Menu" data-close="Close Menu"></label>
 <ul class="menu pull-right">
   <li><a href="/">Home</a></li>
-  <li><a href="/blog/">Blog</a></li>
   <li><a href="/app/">Apps</a></li>
-  <li><a href="http://blog.lessfun.com">About</a></li>
+  <li><a href="/blog/">Blog [en]</a></li>
+  <li><a href="http://blog.lessfun.com">Blog [zh]</a></li>
 </ul>
   </nav>
 </div>
@@ -249,7 +249,7 @@ Update: 2015.05.06</p>
   <ul class="unstyled">
     
     
-    
+    <li><a class="github" href="//github.com/tinymind"><i class="icon-github"></i> Github</a></li>
     
     
     
@@ -275,6 +275,43 @@ Update: 2015.05.06</p>
       </li>
     
   </ul>
+</section>
+
+<section id="github-repos" class="aside-module grid__item one-whole lap-one-half">
+  <h1 class="title delta">
+    GitHub Repos
+    
+    <small class="pull-right">
+      <a class="btn" href="//github.com/tinymind" title="@tinymind on GitHub" target="_blank">
+        <i class="icon-external-link"></i>
+      </a>
+    </small>
+    
+  </h1>
+  <ul id="gh_repos" class="divided">
+    <li class="loading">
+      <i class="icon-spinner icon-spin"></i>
+    </li>
+  </ul>
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'tinymind',
+            count: 4,
+            skip_forks: false,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -334,6 +371,26 @@ Update: 2015.05.06</p>
 
 
 
+
+<script>
+  $(document).ready(function(){
+    if (!window.jXHR){
+      var jxhr = document.createElement('script');
+      jxhr.type = 'text/javascript';
+      jxhr.src = '/javascripts/libs/jXHR.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jxhr, s);
+    }
+
+    github.showRepos({
+      user: 'tinymind',
+      count: 4,
+      skip_forks: false,
+      target: '#gh_repos'
+    });
+  });
+</script>
+<script src="/javascripts/github.js"></script>
 
 
 
