@@ -14,9 +14,11 @@ is_homepage: true
     <div class="grid__item one-third lap-one-whole palm-one-whole usp">
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
+          {% if site.icon %}
           <span class="icon">
             <i class="icon-archive"></i>
           </span>
+          {% endif %}
         </div>
 
         <div class="grid__item one-whole lap-two-thirds">
@@ -28,11 +30,13 @@ is_homepage: true
     <div class="grid__item one-third lap-one-whole palm-one-whole usp">
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
+          {% if site.icon %}
           <span class="icon">
             <i class="icon-mobile-phone"></i>
           </span>
+          {% endif %}
         </div>
-
+        
         <div class="grid__item one-whole lap-two-thirds">
           {% include custom/grid_item_middle.html %}
         </div>
@@ -42,9 +46,11 @@ is_homepage: true
     <div class="grid__item one-third lap-one-whole palm-one-whole usp">
       <div class="grid">
         <div class="grid__item one-whole lap-one-third">
+          {% if site.icon %}
           <span class="icon">
             <i class="icon-search"></i>
           </span>
+          {% endif %}
         </div>
 
         <div class="grid__item one-whole lap-two-thirds">
