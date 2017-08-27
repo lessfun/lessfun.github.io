@@ -10,7 +10,8 @@ body {font-family: 'Noto Sans', sans-serif;}
 /* Headlines */
 
 h2 {
-	color: #4e97cc;
+	/*color: #4e97cc;*/
+	color: #000;
 	font-size: 50px;
 	text-align: center;
 	margin-top: 0px;
@@ -115,14 +116,14 @@ h2 {
 				0 22px 0 1px #888;
 }
 .top-bar .active a {
-	color: #4e97cc !important;
+	color: #000 !important;
 }
 
 
 /* Header */
 header {
 	padding: 60px 0 0;
-	/*background-color: #4e97cc;*/
+	/*background-color: #000;*/
 	background-color: rgb(252,252,252);
 	/*color: white;*/
 	color: rgb(83,83,83);
@@ -176,7 +177,7 @@ header .large-8 {
 }
 
 .download-btn {
-	background-color: rgb(0,174,118);
+	background-color: rgb(51,51,51);
 	padding:31px 95px;
 	background-image:url(../img/btn_appstore.png);
 	float:left;
@@ -189,7 +190,7 @@ header .large-8 {
 }
 
 .download-btn:hover {
-	background-color:rgba(28,168,109,1);
+	background-color:rgba(61,61,61,1);
 	background-color:111
 }
 
@@ -209,7 +210,7 @@ header .large-8 {
 	font-weight: 200;
 }
 .hint h3 {
-	color: #4e97cc;
+	color: #000;
 	display: inline-block;
 }
 .hint .icon {
@@ -268,7 +269,7 @@ header .large-8 {
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 	border-radius: 4px;
-	background-color: #4e97cc;	
+	background-color: #000;	
 	-moz-box-shadow: none !important;
 	-webkit-box-shadow: none !important;
 	box-shadow: none !important;
@@ -306,7 +307,7 @@ color: #f06060;
 }
 .button.white {
 	clear: both;
-	color: #4e97cc;
+	color: #000;
 	background-color: white;
 	border: 0 !important;
 	-moz-box-shadow: 0 1px 0 rgba(0,0,0,.2) !important;
@@ -323,7 +324,7 @@ color: #f06060;
 	padding: 70px 0;
 }
 .section.orange {
-	background-color: #4e97cc;
+	background-color: #000;
 }
 .section.gray {
 	border-top: 1px solid #f2f2f2;
@@ -388,7 +389,7 @@ color: #f06060;
 }
 .quote .author {
 	font-size: 20px;
-	color: #4e97cc;
+	color: #000;
 	display: block;
 	text-align: center;
 }
@@ -417,7 +418,7 @@ color: #f06060;
 	cursor:pointer;
 }
 .quotes .orbit-bullets li.active {
-	background: #4e97cc;
+	background: #000;
 }
 
 /* Pricing Table */
@@ -463,23 +464,23 @@ color: #f06060;
 	background-color: transparent !important;
 }
 .pricing-table.featured .title {
-	color: #4e97cc !important;
+	color: #000 !important;
 }
 .pricing-table .price-table-toggle {
 	display: none;
 }
 
 
-.featured {background:#4e97cc; border:1px solid #4e97cc !important;}
-.pricing-table.featured .description, .pricing-table.featured .title{background:#4e97cc;color:#fff !important;}
+.featured {background:#000; border:1px solid #000 !important;}
+.pricing-table.featured .description, .pricing-table.featured .title{background:#000;color:#fff !important;}
 .pricing-table.featured .price { background:#fff !important; color:#f06060; }
 .pricing-table.featured .button { background:#fff; color:#f06060; border:0 !important;}
-.pricing-table.featured .bullet-item {background:#4e97cc;color:#fff !important;}
+.pricing-table.featured .bullet-item {background:#000;color:#fff !important;}
 
 
 /* contact us */
 
-.contact {background:#4e97cc}
+.contact {background:#000}
 
 /* Footer */
 footer {
@@ -497,7 +498,7 @@ footer a.icon {
           transition: all 0.4s ease-in-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.50+ */
 }
 footer a.icon:hover {
-	color: #4e97cc !important;
+	color: #000 !important;
 }
 
 /* COLORS */
@@ -1669,7 +1670,7 @@ you can use the generic selector below, but it's slower:
 }
 
 .styleswitcher #brown { background-color: #663300;}
-.styleswitcher #orange {background-color: #4e97cc}
+.styleswitcher #orange {background-color: #000}
 .styleswitcher #olive {background-color: #8FA411}
 .styleswitcher #green {background-color: #7ab800}
 .styleswitcher #lime {background-color: #cccc33}
@@ -1712,7 +1713,7 @@ you can use the generic selector below, but it's slower:
 
 
 .hi-icon-effect-3 .hi-icon {
-	box-shadow: 0 0 0 4px #4e97cc;
+	box-shadow: 0 0 0 4px #000;
 	-webkit-transition: color 0.3s;
 	-moz-transition: color 0.3s;
 	transition: color 0.3s;
@@ -1734,7 +1735,7 @@ you can use the generic selector below, but it's slower:
 /* Effect */
 .hi-icon-effect-3b .hi-icon {
 	color: #fff;
-	background: #4e97cc;
+	background: #000;
 }
 
 .no-touch .hi-icon-effect-3b .hi-icon:hover {
@@ -1763,7 +1764,7 @@ you can use the generic selector below, but it's slower:
 	cursor:pointer;
 }
 #ascrail2000>div{
-	background-color:#4e97cc!important;
+	background-color:#000!important;
 	width:8px!important;
 	cursor:pointer;
 	border-radius:0!important;
