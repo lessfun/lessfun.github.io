@@ -259,7 +259,7 @@ html {
       text-align: center;
     }
     .main section.page2 {
-      background: #555557 url(../img/app_passcalc.png) no-repeat center -150px ;
+      background: #555557 url(../img/app_passcalc_v2.png) no-repeat center -150px ;
     }
     .main section.page2 > img {
       position: absolute;
@@ -312,7 +312,30 @@ html {
       font-weight: 100;
       font-size: 21px;
     }
-    
+    .main section.page4 {
+      background:url(../img/app_lockcam.png) no-repeat 800px -220px ;
+    }
+    .main section.page4 .page_container {
+      overflow: hidden;
+      width: 500px;
+      left: -285px;
+    }
+    .main section.page4 h1 {
+      text-align: left;
+      padding: 0;
+      margin-bottom: 0;
+      font-size: 70px;
+      letter-spacing: -1px;
+      color: black;
+    }
+    .main section.page4 h2 {
+      color: rgba(0,0,0,0.85);
+      text-align: left;
+      line-height: 160%;
+      font-weight: 100;
+      font-size: 21px;
+    }
+
     body.disabled-onepage-scroll .onepage-wrapper  section {
       min-height: 100%;
       height: auto;
