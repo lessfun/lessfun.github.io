@@ -335,6 +335,32 @@ html {
       font-weight: 100;
       font-size: 21px;
     }
+    .main section.page5 {
+      background:url(../img/app_timestamper.png) no-repeat 156px -50px ;
+    }
+    .main section.page5 .page_container {
+      overflow: hidden;
+      width: 500px;
+      right: -285px;
+    }
+    .main section.page5 h1 {
+      text-align: left;
+      padding: 0;
+      margin-bottom: 0;
+      font-size: 70px;
+      letter-spacing: -1px;
+      color: black;
+    }
+    .main section.page5 h2 {
+      color: rgba(0,0,0,0.85);
+      text-align: left;
+      line-height: 160%;
+      font-weight: 100;
+      font-size: 21px;
+    }
+    .main section.page5 li {
+      text-align: left;
+    }
 
     body.disabled-onepage-scroll .onepage-wrapper  section {
       min-height: 100%;
